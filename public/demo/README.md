@@ -15,14 +15,14 @@ public/demo/obsidian-noteforge-demo.web.mp4
 Current recordings:
 
 - `obsidian-noteforge-demo.mp4`
-- Raw local source capture; gitignored because it is too large for GitHub.
+  - Raw local source capture; gitignored because it is too large for GitHub.
 - `obsidian-noteforge-demo.web.mp4`
-- Compressed public version used by the demo site.
-- 1 minute 38 seconds.
-- Shows VaultForgian creating a new Pythagorean Theorem note from a short study request.
+  - Compressed public version used by the demo site.
+  - 1 minute 38 seconds.
+  - Shows VaultForgian creating a new Pythagorean Theorem note from a short study request.
 - `noteforge-learning-mode.mp4`
-- 1 minute 42 seconds.
-- Learning Mode capture. Shows a created note being turned into quiz/practice flow.
+  - 1 minute 42 seconds.
+  - Learning Mode capture. Shows a created note being turned into quiz/practice flow.
 
 Recording target:
 
